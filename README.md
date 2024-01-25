@@ -1,6 +1,6 @@
 <h1> Augustine Here <br/><a href="https://github.com/repTambe"></a> <a href="https://www.linkedin.com/in/repTambe/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -39,7 +39,7 @@
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**
 
 Here are some ideas to get you started:
 
