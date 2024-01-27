@@ -1,28 +1,22 @@
-![ViewerCount](https://komarev.com/ghpvc/?username=ArtistYay&color=blueviolet&style=plastic&label=How+Many+Stepped+Into+My+Universe?)
+![ViewerCount](https://komarev.com/ghpvc/?username=RepTambe&color=blueviolet&style=plastic&label=How+Many+Stepped+Into+My+Universe?)
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/athinat/">
+  <a href="https://www.linkedin.com/in/augustine-tambe/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/artistyay/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/418533011936772107">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=RepTambe&show_icons=true&count_private=true&theme=tokyonight" width="350"></a>
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ArtistYay&show_icons=true&count_private=true&theme=tokyonight" width="350"></a>
+  🌱 I’m currently working on HTB CDSA
 </p>
 
 <p align='center'>
-  🌱 I’m currently learning Terraform and Python.
-</p>
-
-<p align='center'>
-  💬 Ask me about Cloud Security (IAM & Threat Protection) and DevSecOps.
+  💬 Certifications: Security+ Network+ CYSA+ AWS CCP
 </p>
 
 <p align='center'>
@@ -30,7 +24,7 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:athinathomas@protonmail.com'>athinathomas@protonmail.com</a>
+  📫 How to reach me: <a href='a.tambe30@.com'>a.tambe30@gmail.com</a>
 </p>
 
 ## Skills
