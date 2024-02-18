@@ -12,7 +12,7 @@
 </p>
 
 <p align='center'>
-  🌱 I’m currently working on HTB CDSA
+  🌱 I’m currently working on BTL1, then on to eJPT
 </p>
 
 <p align='center'>
