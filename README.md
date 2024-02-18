@@ -20,7 +20,7 @@
 </p>
 
 <p align='center'>
-  ⚡ Fun fact I like playing video games, add me on Playstation @ PanegyrizeArtist.
+  ⚡ Fun fact I like being outdoors, playing video games, and browsing on Zillow for homestead properties
 </p>
 
 <p align='center'>
