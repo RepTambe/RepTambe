@@ -65,7 +65,6 @@
 📆 April 2024 - Present
 📍 Pleasant Grove, Utah
 
-<img align="right" src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 
 - 👨‍💻 **Security Specialist - Childrens Miracle Network**\
