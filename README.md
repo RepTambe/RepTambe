@@ -12,7 +12,7 @@
 </p>
 
 <p align='center'>
-  🏢 Traige Security Analyst @ Arctic Wolf
+  🏢 Traige Security Engineer 1 @ Arctic Wolf
 </p>
 
 <p align='center'>
