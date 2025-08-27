@@ -12,7 +12,7 @@
 </p>
 
 <p align='center'>
-  🏢 Traige Security Engineer 1 @ Arctic Wolf
+  🏢 Conceirge Security Engineer 2 @ Arctic Wolf
 </p>
 
 <p align='center'>
@@ -20,7 +20,7 @@
 </p>
 
 <p align='center'>
-  💬 Certifications: Security+; Network+; CYSA+; AWS CCP; BTL1
+  💬 Certifications: HTB CSDA, Security+; Network+; CYSA+; AWS CCP; BTL1
 </p>
 
 <p align='center'>
